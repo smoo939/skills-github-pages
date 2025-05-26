@@ -33,10 +33,14 @@ SKILLS
 
 
 <footer>
- <a href="mailto:aidanshoniwa@gmail.com"> Send me an email!</a> 
 
+  <a href="mailto:aidanshoniwa@gmail.com"> Send me an email!</a> 
+
+  
   <a href="call:+263 780 922 364"> call me</a> 
 
+
 <a href="LinkedIn:Aidan Shoniwa"> LinkedIn</a> 
+
 
 </footer>
