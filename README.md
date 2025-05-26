@@ -31,6 +31,12 @@ SKILLS
  - Materials simulation software (MATLAB, Python)
  - Knowledge of laboratory equipment and testing procedures
 
+   <ul>
+     <li>This  is  item  #1.</li> 
+     <li>This  is  item  #2.</li>
+     <li>This  is  item  #3.</li> 
+   </ul> 
+
 
 <footer>
 
