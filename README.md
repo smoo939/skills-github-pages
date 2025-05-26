@@ -33,10 +33,10 @@ SKILLS
 
 
 <footer>
+ <a href="mailto:aidanshoniwa@gmail.com"> Send me an email!</a> 
 
+  <a href="call:+263 780 922 364"> call me</a> 
 
-contact details:
-email: aidanshoniwa@gmail.com
-cell: +263 78 092 364
-LinkedIn: Aidan Shoniwa
+<a href="LinkedIn:Aidan Shoniwa"> LinkedIn</a> 
+
 </footer>
