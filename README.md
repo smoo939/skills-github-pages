@@ -47,7 +47,7 @@ procedures </li>
 <h2> Chatbot</h2>
 <p>Developed an AI-powered chatbot using NLTK and deployed it on a messaging platform.</p>
 </div>
-    </section>
+    
 <!-- Navigation Menu -->
     <nav>
         <ul>
