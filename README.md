@@ -6,6 +6,9 @@
 </head>
 <body>
     <!-- About Me Section -->
+    <div class="about-image">
+        <img src="https://github.com/smoo939/skills-github-pages/blob/166ee04ddfc6509293eb94bdea274cb9dcbd820a/20240906_171616_kindlephoto-44030499.jpg">
+      </div>
   <h1>Hi, I'm Aidan Shoniwa👋.</h1>
         <p>I'm a Software Developer. I have worked on applications and microservices
                deployed on IBM Cloud. I'm a avid user of IBM Watson
