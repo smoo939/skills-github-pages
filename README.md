@@ -1,52 +1,62 @@
-<header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <!-- About Me Section -->
+  <h1>Hi, I'm Aidan Shoniwa👋.</h1>
+        <p>I'm a Software Developer. I have worked on applications and microservices
+               deployed on IBM Cloud. I'm a avid user of IBM Watson
+               worked on Watson Assistant, NLU, Sentiment Analyser to name a few.</p>
+<!-- Skills Section -->
+    <section id="skills">
+        <h1>Skills</h1>
+        <ul>
+            <li>Programming languages: Python, JavaScript</li>
+           <li> Web development: HTML, CSS, JavaScript  </li>
+                    <li>     Data science and AI: Python, machine learning, deep learning </li>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+           <li> Generative AI: Python, Flask, AI model development </li>
 
-About Me
+           <li> Materials processing and characterization </li>
 
-Hi I'm Aidan Shoniwa👋
+           <li>   Materials simulation software (MATLAB, Python) </li>
 
-As a versatile developer, I specialize in crafting innovative web applications and AI solutions that drive results. With expertise in HTML, CSS, JavaScript, and AI technologies, I bring ideas to life and deliver high-quality digital experiences.
-</header>
+           <li>  Knowledge of laboratory equipment and testing
+procedures </li>
+ </ul>
+    </section>
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
--->
+<!-- Projects Section -->
+    <section id="projects">
+        <h1>Projects</h1>
+        <div class="project-container">
+            <div class="project">
+<h2>Chatbot Application</h2>
+<p>Developed a chatbot application using   Python and JavaScript, and integrated it with a messaging platform.</p>
+<h3> Conversational AI Model</h3>
+<p> Trained and fine-tuned a conversational AI model , and deployed it as a chatbot.</p>
+<h4> Sentiment Analysis Model</h4>
+<p>Built a sentiment analysis model using a machine learning library   TensorFlow, and deployed it as a web application.</p>
+<h5>Personal Portfolio Website</h5>
+<p>Built a personal portfolio website using HTML, CSS, and JavaScript, and deployed it on a web server.</p>
+<h6>Data Analysis Project</h6>
+<p> Worked on a data analysis project using Pandas, NumPy, and Matplotlib, and visualized the insights using Plotly.</p>
+<h7>AI-Powered Chatbot</h7>
+<p>Developed an AI-powered chatbot using NLTK and deployed it on a messaging platform.</p>
+</div>
+    </section>
+<!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+</ul>
+    </nav>
+</body>
+</html>
 
-SKILLS
-
-- Programming languages: Python, JavaScript
-- Web development: HTML, CSS, JavaScript
-- Data science and AI: Python, machine learning, deep learning
-- Generative AI: Python, Flask, AI model development
-- Materials processing and characterization
- - Materials simulation software (MATLAB, Python)
- - Knowledge of laboratory equipment and testing procedures
-
-   <ul>
-     <li>This  is  item  #1.</li> 
-     <li>This  is  item  #2.</li>
-     <li>This  is  item  #3.</li> 
-   </ul> 
-
-
-<footer>
-
-  <a href="mailto:aidanshoniwa@gmail.com"> Send me an email!</a> 
-
-  
-  <a href="call:+263 780 922 364"> call me</a> 
-
-
-<a href="LinkedIn:Aidan Shoniwa"> LinkedIn</a> 
-
-
-</footer>
